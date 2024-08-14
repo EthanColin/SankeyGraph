@@ -7,3 +7,9 @@
 ```js
 npm install
 ```
+
+## Start
+
+```js
+npm run start
+```
